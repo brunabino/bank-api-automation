@@ -24,7 +24,7 @@ To start this project, you need to have Cypress and the Cypress HTML Reporter in
   npx cypress open
   ```
 
-## Running Cypress HTML Reporter
+## Running Cypress Mochawesome Reporter
 
   ```
   npx cypress run --e2e
